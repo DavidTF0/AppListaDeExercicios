@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppListaDeExercicios</string>
+    <string name="app_title01">Lista de Treinos</string>
+    <string name="repeat">Repetições:</string>
+    <string name="series">Series:</string>
+    <string name="weight">Peso:</string>
+</resources>
